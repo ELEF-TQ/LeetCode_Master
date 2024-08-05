@@ -1,26 +1,30 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int p1 = m - 1; // Pointer for nums1
-        int p2 = n - 1; // Pointer for nums2
-        int p = m + n - 1; // Pointer for the merged array
 
-        // Iterate from the back of the arrays
-        while (p1 >= 0 && p2 >= 0) {
-            if (nums1[p1] > nums2[p2]) {
-                nums1[p] = nums1[p1];
-                p1--;
+        int P1 = m - 1 ; //nums1
+        int P2 = n - 1 ; //nums2
+        int P = m + n - 1 ; // merged array
+       
+
+        // merge in reverse ordre
+        while(P1 >= 0 && P2 >= 0) {
+            if(nums1[P1] > nums2[P2]){
+                nums1[P] = nums1[P1];
+                P1--;
             } else {
-                nums1[p] = nums2[p2];
-                p2--;
+                nums1[P] = nums2[P2];
+                P2--;       
             }
-            p--;
-        }
 
-        // If there are remaining elements in nums2, add them to nums1
-        while (p2 >= 0) {
-            nums1[p] = nums2[p2];
-            p2--;
-            p--;
+            P--;
         }
+        
+        //rest of nums2
+        while(P2 >=0 ){
+            nums1[P] = nums2[P2];
+            P2--;
+            P--;
+        }
+      
     }
 }
