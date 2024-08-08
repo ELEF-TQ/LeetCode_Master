@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +72,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
