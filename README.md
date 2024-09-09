@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0027-remove-element) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0027-remove-element) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
