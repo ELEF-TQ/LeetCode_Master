@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0219-contains-duplicate-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
