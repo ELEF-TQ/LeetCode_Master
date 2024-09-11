@@ -11,16 +11,19 @@ class Solution {
         }
 
         for(int num : nums_set){
-            int current_num = num ;
-            int current_sequence_length = 1 ; // first apperance counts
+           
+            if(!nums_set.contains(num - 1)){
+                int current_num = num ;
+                int current_sequence_length = 1 ; // first apperance counts
 
-            if(!nums_set.contains(current_num - 1)){
                 while(nums_set.contains(current_num + 1)){
                     current_num += 1 ;
                     current_sequence_length += 1 ;
                 }
+                
+                max_sequence_length = Math.max(max_sequence_length , current_sequence_length);
             }
-            max_sequence_length = Math.max(max_sequence_length , current_sequence_length);
+           
         }
 
         return max_sequence_length ;
