@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0149-max-points-on-a-line](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
