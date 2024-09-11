@@ -1,6 +1,8 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
 
+        if (nums.length == 0) return 0;  
+
         HashSet<Integer> nums_set = new HashSet<>() ;
         int max_sequence_length = 0 ;
 
@@ -8,8 +10,8 @@ class Solution {
             nums_set.add(num) ;
         }
 
-        for(int i=0 ; i < nums.length ; i++){
-            int current_num = nums[i] ;
+        for(int num : nums_set){
+            int current_num = num ;
             int current_sequence_length = 1 ; // first apperance counts
 
             if(!nums_set.contains(current_num - 1)){
