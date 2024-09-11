@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
