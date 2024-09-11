@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0066-plus-one) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
