@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
