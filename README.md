@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0058-length-of-last-word) |
@@ -184,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
