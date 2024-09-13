@@ -19,8 +19,6 @@ class Solution {
                 return false;
             }
         }
-
-        // Return true if the stack is empty (all brackets matched), otherwise false
         return stack.isEmpty();
     }
 }
