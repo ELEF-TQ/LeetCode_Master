@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0643-maximum-average-subarray-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
