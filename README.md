@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0202-happy-number) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0290-word-pattern) |
