@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0643-maximum-average-subarray-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
