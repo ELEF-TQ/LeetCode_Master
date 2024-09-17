@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
+| [1894-merge-strings-alternately](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
