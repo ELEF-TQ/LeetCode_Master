@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0605-can-place-flowers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Queue
 |  |
 | ------- |
@@ -255,4 +258,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
