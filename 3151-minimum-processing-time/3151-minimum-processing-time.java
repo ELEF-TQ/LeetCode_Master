@@ -2,24 +2,18 @@ import java.util.*;
 
 class Solution {
     public int minProcessingTime(List<Integer> processorTime, List<Integer> tasks) {
-
         Collections.sort(processorTime);  
-        Collections.sort(tasks);         
+        Collections.sort(tasks, Collections.reverseOrder());
         
         int maxTime = 0;
-        int taskIndex = tasks.size() - 1; 
- 
-        for (int i = 0; i < processorTime.size(); i++) {
+
+
+        for (int i = 0 , j=0; i < processorTime.size(); i++ , j+=4) {
             int processorAvailableTime = processorTime.get(i);
+            int currentMaxTaskTime = processorAvailableTime + tasks.get(j) ; 
             
-            int currentMaxTaskTime = 0;
-            for (int j = 0; j < 4; j++) {
-                int taskTime = tasks.get(taskIndex);
-                currentMaxTaskTime = Math.max(currentMaxTaskTime, processorAvailableTime + taskTime);
-                taskIndex--; 
-            }
-            
-            maxTime = Math.max(maxTime, currentMaxTaskTime);
+            maxTime = Math.max(maxTime, currentMaxTaskTime); 
+     
         }
         
         return maxTime;
