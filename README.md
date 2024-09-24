@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0605-can-place-flowers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
+| [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
 ## Queue
 |  |
 | ------- |
