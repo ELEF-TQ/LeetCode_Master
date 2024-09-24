@@ -8,7 +8,7 @@ class Solution {
         int maxTime = 0;
 
         for (int i = 0, j = 0; i < processorTime.size() && j + 3 < tasks.size(); i++, j += 4) {
-            
+
             int processorAvailableTime = processorTime.get(i);
             int currentMaxTaskTime = processorAvailableTime + tasks.get(j);
 
