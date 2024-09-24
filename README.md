@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1894-merge-strings-alternately) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
 ## Simulation
 |  |
