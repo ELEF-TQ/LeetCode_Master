@@ -11,15 +11,15 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
 
-        ArrayList<ListNode> array = new ArrayList<>();
-        int length = 0 ;
+        ListNode slow = head ;
+        ListNode fast = head ;
 
-        while(head!= null) {
-            array.add(head);
-            head=head.next;
-            length++;
+        while(fast !=null && fast.next!=null){
+            fast = fast.next.next ;
+            slow = slow.next ;
         }
-        return array.get(length/2);
+
+        return slow ;
         
     }
 }
