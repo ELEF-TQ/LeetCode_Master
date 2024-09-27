@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0409-longest-palindrome) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
 ## Linked List
 |  |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## String
 |  |
 | ------- |
