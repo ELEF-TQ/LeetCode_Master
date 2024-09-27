@@ -12,6 +12,7 @@ class Solution {
         }
 
         // if all digits were 9, we need a new array with one more element
+        // initialized by 0 (by default)
         digits = new int[digits.length + 1];
         digits[0] = 1;  
         return digits;
