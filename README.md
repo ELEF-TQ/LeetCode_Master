@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0392-is-subsequence) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
@@ -315,5 +317,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
