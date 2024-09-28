@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0409-longest-palindrome) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
 ## Greedy
 |  |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
