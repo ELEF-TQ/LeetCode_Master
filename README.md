@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0219-contains-duplicate-ii) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## String
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -301,11 +304,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
