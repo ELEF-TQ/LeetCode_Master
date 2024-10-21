@@ -1,27 +1,28 @@
 class Solution {
     public boolean isPalindrome(String s) {
- 
+
         StringBuilder sentence = new StringBuilder();
 
-        // Removing non-alphanumeric characters
-        for (char c : s.toCharArray()) {
-            if (Character.isDigit(c) || Character.isLetter(c)) {
-                sentence.append(Character.toLowerCase(c)); 
+        // string to array
+        for(Character c:s.toCharArray()){
+            if(Character.isLetterOrDigit(c) ){
+                sentence.append(Character.toLowerCase(c));
             }
         }
 
-        // Palindrome check with two pointers
-        int aPointer = 0;
-        int bPointer = sentence.length() - 1;
-
-        while (aPointer <= bPointer) {
-            if (sentence.charAt(aPointer) != sentence.charAt(bPointer)) {
-                return false;
+        // Check Pilandrome
+        int left = 0 ;
+        int right = sentence.length() - 1 ;
+        
+        while(left < right){
+            if(sentence.charAt(left) != sentence.charAt(right)){
+                return false ;
             }
-            aPointer++;
-            bPointer--;
+            left++ ;
+            right--;
         }
 
-        return true;
+        return true ;
+ 
     }
 }
