@@ -11,12 +11,10 @@ class Solution {
 
         while (right < s.length()) {
             if (!hashSet.contains(s.charAt(right))) {
-                // character not present in the set, add it 
                 hashSet.add(s.charAt(right));
                 right++;
-                maxLength = Math.max(hashSet.size(), maxLength);
+                maxLength = Math.max(right - left, maxLength);
             } else {
-                // character is present, remove the character at left
                 hashSet.remove(s.charAt(left));
                 left++;
             }
