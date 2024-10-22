@@ -3,18 +3,22 @@ import java.util.Map;
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> numMap = new HashMap<>();
 
-        for (int i = 0; i < nums.length; i++) {
+        HashMap<Integer,Integer> hash = new HashMap<>();
+
+        for(int i=0 ; i < nums.length ; i++){
             int diff = target - nums[i];
 
-            if (numMap.containsKey(diff)) {
-                return new int[] {numMap.get(diff), i};
+            if (hash.containsKey(diff)) {
+                return new int[] {hash.get(diff), i};
             }
 
-            numMap.put(nums[i], i);
+            hash.put(nums[i], i);
         }
 
-        throw new IllegalArgumentException("No two sum solution");
+        throw new IllegalArgumentException("No solution");
+
+
+        
     }
 }
