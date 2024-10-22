@@ -258,12 +258,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
+| [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
