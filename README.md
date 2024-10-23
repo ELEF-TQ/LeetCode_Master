@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
+| [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
 | [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
