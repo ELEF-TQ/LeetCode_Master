@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0724-find-pivot-index) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0605-can-place-flowers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
