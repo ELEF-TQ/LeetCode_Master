@@ -4,11 +4,11 @@ class Solution {
         HashSet<Integer> dup = new HashSet<>();
         List<Integer> duplicates = new ArrayList<>();
 
-        for(int num:nums){
-            if(!dup.add(num)) duplicates.add(num);
+        for (int num : nums) {
+            if (!dup.add(num)) {
+                duplicates.add(num);
+            }
         }
-
         return duplicates;
-        
     }
 }
