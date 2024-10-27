@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0621-task-scheduler) |
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
