@@ -1,25 +1,9 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
-
-        int n = s.length();
-
-        for(int i=1 ; i <= n/2 ; i++){
-            if(n%i == 0){
-                int num_repeats = n/i ;
-                String substring = s.substring(0,i);
-                StringBuilder sb = new StringBuilder();
-
-                for(int j=0 ; j < num_repeats ; j++){
-                    sb.append(substring);
-                }
-
-                if(sb.toString().equals(s)) return true ;
-
-
-            }
-        }
-
-        return false ;
-        
+        String s2 = s + s;
+        // Enlever le premier et le dernier caractère de s2
+        String modified = s2.substring(1, s2.length() - 1);
+        // Vérifier si s existe dans la chaîne modifiée
+        return modified.contains(s);
     }
 }
