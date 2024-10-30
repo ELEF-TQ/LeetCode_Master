@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2350-find-closest-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2350-find-closest-number-to-zero) |
+| [2386-min-max-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2386-min-max-game) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
+| [2386-min-max-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
