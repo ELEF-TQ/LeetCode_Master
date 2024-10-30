@@ -16,7 +16,7 @@ class Solution {
             hash.put(nums[i], i);
         }
 
-        throw new IllegalArgumentException("No solution");
+        return new int[0];
 
 
         
