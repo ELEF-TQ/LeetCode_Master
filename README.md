@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0621-task-scheduler) |
