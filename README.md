@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2350-find-closest-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2386-min-max-game) |
+| [2502-sort-the-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2502-sort-the-people) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2502-sort-the-people) |
 | [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
 ## Binary Search
 |  |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
+| [2502-sort-the-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
+| [2502-sort-the-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
