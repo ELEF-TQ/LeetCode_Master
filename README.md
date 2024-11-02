@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1833-find-the-highest-altitude) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0621-task-scheduler) |
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0990-verifying-an-alien-dictionary) |
 | [1319-unique-number-of-occurrences](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1960-check-if-the-sentence-is-pangram) |
