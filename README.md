@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0088-merge-sorted-array) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0242-valid-anagram) |
