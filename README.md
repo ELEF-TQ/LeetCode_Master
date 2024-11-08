@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0149-max-points-on-a-line) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0151-reverse-words-in-a-string) |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
