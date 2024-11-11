@@ -1,21 +1,26 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
-        if(x == 0) return true ;
-        if(x < 0 ) return false ;
-        
-        String str = String.valueOf(x);
-
-        int start = 0 ;
-        int end = str.length() - 1 ;
-       
-        while(start < end){
-            if(str.charAt(start) != str.charAt(end)) return false ;
-
-            start++;
-            end--;
+        // Handle edge case for 0, which is always a palindrome
+        if (x == 0) {
+            return true;
         }
 
-        return true ;
+        // Handle edge case for negative numbers
+        if (x < 0) {
+            return false;
+        }
+
+        StringBuilder rev = new StringBuilder();
+        int num = x;
+
+        // Reverse the digits of the number
+        while (num != 0) {
+            int rest = num % 10;
+            rev.append(rest);
+            num = num / 10;
+        }
+
+        // Compare the original number with the reversed string
+        return Integer.toString(x).equals(rev.toString());
     }
 }
