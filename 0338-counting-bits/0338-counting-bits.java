@@ -3,7 +3,8 @@ class Solution {
         int[] result = new int[n + 1];
 
         for (int i = 1; i <= n; i++) {
-            result[i] = result[i / 2] + (i % 2);
+            //result[i] = result[i / 2] + (i % 2);
+            result[i] = Integer.bitCount(i);
         }
 
         return result;
