@@ -7,16 +7,17 @@ class Solution {
 
         for(String word:strs){
 
+            // Sort the string
             char[] current = word.toCharArray() ; // string -> array
             Arrays.sort(current) ; // sort caracters
-            String sortedString = String.valueOf(current) ; // array -> string
+            String sortedString = new String(current) ; // array -> string
 
            
             if(!map.containsKey(sortedString)) {
                 map.put(sortedString , new ArrayList<String>());
             }
 
-            map.get(sortedString).add(word); // Add the original word to the list corresponding to the sorted string
+            map.get(sortedString).add(word); // Add the original word to the list 
 
         }
 
