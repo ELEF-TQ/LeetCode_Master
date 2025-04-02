@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0049-group-anagrams) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0055-jump-game) |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0234-palindrome-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
@@ -495,4 +499,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
