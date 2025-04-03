@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0485-max-consecutive-ones) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -503,4 +506,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
