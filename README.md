@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0990-verifying-an-alien-dictionary) |
 | [1319-unique-number-of-occurrences](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1542-consecutive-characters) |
+| [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1894-merge-strings-alternately) |
