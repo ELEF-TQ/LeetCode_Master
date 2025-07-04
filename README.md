@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0792-binary-search) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0682-baseball-game) |
 | [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
 | [2058-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2386-min-max-game) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
