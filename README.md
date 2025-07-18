@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0200-number-of-islands) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1706-min-cost-to-connect-all-points) |
 ## String Matching
 |  |
 | ------- |
@@ -530,4 +532,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0278-first-bad-version) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
