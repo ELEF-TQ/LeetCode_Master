@@ -1,22 +1,21 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        List<Integer> missing = new ArrayList<>();
-        boolean[] seen = new boolean[nums.length];
 
-  
+        int n = nums.length;
+        List<Integer> result = new ArrayList<>();
+        boolean[] seen = new boolean[n + 1];
+
+        // marking existing numbers
         for (int num : nums) {
-            seen[num - 1] = true; // 0-based index
+            seen[num] = true;
         }
 
-        for (int i = 0; i < seen.length; i++) {
+        for (int i = 1; i <= n; i++) {
             if (!seen[i]) {
-                missing.add(i + 1); 
+                result.add(i);
             }
         }
 
-        return missing;
+        return result;
     }
 }
