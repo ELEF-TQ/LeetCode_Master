@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1480-running-sum-of-1d-array) |
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
+| [1512-number-of-good-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1512-number-of-good-pairs) |
 | [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0621-task-scheduler) |
+| [1512-number-of-good-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1512-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
