@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1833-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1920-build-array-from-permutation) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2058-concatenation-of-array) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0682-baseball-game) |
 | [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
+| [1920-build-array-from-permutation](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2058-concatenation-of-array) |
 | [2386-min-max-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2386-min-max-game) |
