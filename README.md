@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1672-richest-customer-wealth) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0733-flood-fill) |
+| [1672-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## String
