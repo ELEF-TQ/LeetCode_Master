@@ -1,24 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x == 0) {
-            return true;
+
+        String str = String.valueOf(x);
+        int left = 0;
+        int right = str.length() - 1;
+
+        while(left < right){
+            if(str.charAt(left) != str.charAt(right)){
+                return false;
+            }
+            left++;
+            right--;
         }
-
-        if (x < 0) {
-            return false;
-        }
-
-        StringBuilder rev = new StringBuilder();
-        int num = x;
-
-      
-        while (num != 0) {
-            int rest = num % 10;
-            rev.append(rest);
-            num = num / 10;
-        }
-
-
-        return Integer.toString(x).equals(rev.toString());
+        return true;
+        
     }
 }
