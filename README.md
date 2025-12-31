@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2058-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2350-find-closest-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2350-find-closest-number-to-zero) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1970-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
