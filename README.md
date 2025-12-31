@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1672-richest-customer-wealth) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1791-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1833-find-the-highest-altitude) |
