@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0371-sum-of-two-integers) |
