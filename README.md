@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2386-min-max-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2386-min-max-game) |
 | [2502-sort-the-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2502-sort-the-people) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3151-minimum-processing-time](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/3151-minimum-processing-time) |
 ## Two Pointers
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0792-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
