@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0516-longest-palindromic-subsequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0990-verifying-an-alien-dictionary) |
+| [1108-defanging-an-ip-address](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1108-defanging-an-ip-address) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1542-consecutive-characters) |
