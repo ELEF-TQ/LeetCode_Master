@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1603-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1672-richest-customer-wealth) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-consecutive-characters](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
