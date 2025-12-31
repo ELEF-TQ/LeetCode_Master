@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1013-fibonacci-number) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
