@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0954-maximum-sum-circular-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0976-largest-perimeter-triangle) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0990-verifying-an-alien-dictionary) |
 | [1319-unique-number-of-occurrences](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
+| [0976-largest-perimeter-triangle](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0621-task-scheduler) |
+| [0976-largest-perimeter-triangle](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0976-largest-perimeter-triangle) |
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2475-largest-palindromic-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2475-largest-palindromic-number) |
