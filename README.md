@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0169-majority-element) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0202-happy-number) |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1441-build-an-array-with-stack-operations) |
