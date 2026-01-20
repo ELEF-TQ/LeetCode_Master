@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1480-running-sum-of-1d-array) |
 | [1499-maximum-performance-of-a-team](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1499-maximum-performance-of-a-team) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0682-baseball-game) |
 | [1195-distribute-candies-to-people](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1195-distribute-candies-to-people) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/1441-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/ELEF-TQ/LeetCode_Master/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
